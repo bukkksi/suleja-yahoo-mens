@@ -1,0 +1,9 @@
+/*Selector{
+	property:value;
+}*/
+body{
+	background-image: url(ko.png);
+	background-color:rgb(20, 30, 50, 1.0) ;
+	color: goldenrod;
+}
+

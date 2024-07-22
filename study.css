@@ -1,0 +1,23 @@
+/*Selector{
+	property:value;
+}*/
+
+body{
+	background-image: url(lo.png);
+	background-color: rgb(20, 30, 50, 1.0)
+}
+h2{
+	color: rgba(50, 30, 700, 1.0);
+	text-align: center;
+}
+ul{
+  color: red;
+  list-style: none;
+}
+h3{
+	text-align: center;
+	color: lightslategrey;
+}
+p{
+	color: lime;
+}
